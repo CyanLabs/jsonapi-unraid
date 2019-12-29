@@ -25,3 +25,8 @@ Plugins > Install Plugin
 ```
 https://raw.githubusercontent.com/Cyanlabs/jsonapi-unraid/master/jsonapi.plg
 ```
+
+## Links
+https://cyanlabs.net/applications/jsonapi-unraid/
+https://forums.unraid.net/topic/86646-plugin-unraid-json-api/
+https://community.home-assistant.io/t/unraid-json-api/158652
