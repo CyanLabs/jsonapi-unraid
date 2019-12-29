@@ -1,7 +1,7 @@
 <?xml version='1.0' standalone='yes'?>
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "jsonapi">
-<!ENTITY author    "Fma965">
+<!ENTITY author    "Cyanlabs">
 <!ENTITY version   "2019.12.29">
 <!ENTITY launch    "Dashboard">
 <!ENTITY gitURL    "https://raw.githubusercontent.com/&author;/&name;-unraid/master">
