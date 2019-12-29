@@ -1,7 +1,7 @@
 ## Introduction
 This plugin is a wrapper for reading the files used by Unraid / emhttpd for displaying various statistics, the files are read from /var/local/emhttp/*.ini and are converted to JSON for easy access by services/applications like Home Assistant
 
-This plugin has no 'frontend' and is only accessible directly via http://TOWER/plugins/jsonapi/disks.php?file=XXX.ini for example to get the disks.ini file you would do  http://TOWER/plugins/jsonapi/disks.php?file=disks.ini
+This plugin has no 'frontend' and is only accessible directly via http://TOWER/plugins/jsonapi/api.php?file=XXX.ini for example to get the disks.ini file you would do  http://TOWER/plugins/jsonapi/api.php?file=disks.ini
 
 currently the following files exist that can be used
 
@@ -23,5 +23,5 @@ currently the following files exist that can be used
 ## Usage
 Plugins > Install Plugin
 ```
-https://raw.githubusercontent.com/Fma965/jsonapi-unraid/master/jsonapi.plg
+https://raw.githubusercontent.com/Cyanlabs/jsonapi-unraid/master/jsonapi.plg
 ```
