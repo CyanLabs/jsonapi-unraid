@@ -23,5 +23,5 @@ currently the following files exist that can be used
 ## Usage
 Plugins > Install Plugin
 ```
-https://raw.githubusercontent.com/Fma965/jsonapi-unraid/master/jsonapi.plg
+https://raw.githubusercontent.com/Cyanlabs/jsonapi-unraid/master/jsonapi.plg
 ```
