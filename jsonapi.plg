@@ -2,7 +2,7 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "jsonapi">
 <!ENTITY author    "Cyanlabs">
-<!ENTITY version   "2019.12.29">
+<!ENTITY version   "2019.12.30">
 <!ENTITY launch    "Dashboard">
 <!ENTITY gitURL    "https://raw.githubusercontent.com/&author;/&name;-unraid/master">
 <!ENTITY pluginURL "&gitURL;/&name;.plg">
@@ -14,7 +14,7 @@
 <PLUGIN name="&name;" author="&author;" version="&version;" launch="&launch;" pluginURL="&pluginURL;">
  <FILE Name="&plgPATH;/&plgNAME;.txz" Min="6.4" Run="upgradepkg --install-new">
   <URL>&pkgURL;/&plgNAME;.txz</URL>
-  <MD5>6266312255103c8112f50c4a49ac18f4</MD5>
+  <MD5>310d1d5b23bd5b323ed2e7ad00e6cda9</MD5>
  </FILE>
  <FILE Run="/bin/bash" Method="remove">
   <INLINE>
